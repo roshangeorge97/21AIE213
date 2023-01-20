@@ -1,0 +1,2 @@
+ReallyUsefulRobot/ROS/rur:ReallyUsefulRobot/ROS/rur_description:ReallyUsefulRobot/ROS/rur_detailed_description:ReallyUsefulRobot/ROS/rur_gazebo:ReallyUsefulRobot/ROS/rur_navigation
+-DCATKIN_DEVEL_PREFIX=/home/roshangeorge/catkin_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/roshangeorge/catkin_workspace/install -G Unix Makefiles
